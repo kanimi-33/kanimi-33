@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **python, css, javascript, java**
 
-- 📫 How to reach me **kanimireddysainathreddy1919@gmail.com**
+- 📫 How to reach me **kanimireddysainathreddy1919@gmail.com** and **@ 9346158320**
 
 - ⚡ Fun fact **I am funny while coding !**
 
