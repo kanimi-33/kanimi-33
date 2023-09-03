@@ -24,5 +24,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<h4>Java</h4>
+<h4>Java | Python | C++ | C | HTML5 | CSS3 | JavaScript | Bootstrap</h4>
+<h4>SQL Database | DSA | Machine Learning</h4>
+<h4>Git and GitHub | Visual Studio Code | Jupyter </h4>
 
