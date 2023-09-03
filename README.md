@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Something cool!**
 
-- 🌱 I’m currently learning **DSA using Java**,**Javascript**,**ReactJs**
+- 🌱 I’m currently learning **Machine Learning**,**DSA using Java**,**Javascript**,**AI**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
