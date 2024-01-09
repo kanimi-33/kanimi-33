@@ -24,7 +24,7 @@
 
 
 <h3 align="left">Skills (Programming Languages and Tools):</h3>
-<p>Java | Python | C++ | C | HTML5 | CSS3 | JavaScript | Bootstrap</p>
+<p>MERN Tech Stack | Java | Python | C++ | C | HTML5 | CSS3 | JavaScript | Bootstrap</p>
 <p>SQL Database | DSA | Machine Learning</p>
 <p>Git and GitHub | Visual Studio Code | Jupyter </p>
 
