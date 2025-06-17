@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Something cool!**
 
-- 🌱 I’m currently learning  **MERN STACK**,**AI/ML**
+- 🌱 I’m currently learning  **Java Full Stack Development**,**AI/ML/AzureDevops**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
