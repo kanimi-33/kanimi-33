@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Something cool!**
 
-- 🌱 I’m currently learning  **Java Full Stack Development**,**AI/ML/AzureDevops**
+- 🌱 I’m currently learning  **Java Full Stack Development**,**Spring Boot / Microservices**,**React.JS**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
 - 👨‍💻 All of my projects are available at [https://kanimi-33.github.io/Web_Portfolio/](https://kanimi-33.github.io/Web_Portfolio/)
 
-- 💬 Ask me about **python, css, javascript, java**
+- 💬 Ask me about **Java, Spring Core, Spring Boot, Javascript, React.js**
 
 - 📫 How to reach me **Email: kanimireddysainathreddy1919@gmail.com** and **Ph.no: 9346158320**
 
@@ -24,7 +24,7 @@
 
 
 <h3 align="left">Skills (Programming Languages and Tools):</h3>
-<p>MERN Tech Stack | Java | Python | C++ | C | HTML5 | CSS3 | JavaScript | Bootstrap</p>
+<p>Java Full Stack | Spring Boot / Microservices | Python | Front-end Tech Stack | React.Js | HTML5 | CSS3 | JavaScript | Bootstrap</p>
 <p>SQL Database | DSA | Machine Learning</p>
 <p>Git and GitHub | Visual Studio Code | Jupyter </p>
 
