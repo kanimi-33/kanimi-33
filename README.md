@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sainathreddy" target="blank"><img src="https://img.shields.io/twitter/follow/sainathreddy?logo=twitter&style=for-the-badge" alt="sainathreddy" /></a> </p>
 
-- 🔭 I’m currently working on **Something cool!**
+- 🔭 Currently working on something cool with **cutting-edge backend technologies**
 
 - 🌱 I’m currently learning  **Java Full Stack Development**, **Spring Boot / Microservices**, **React.JS**
 
