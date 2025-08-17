@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sainathreddy Kanimireddy</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Java Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Something cool!**
 
-- 🌱 I’m currently learning  **Java Full Stack Development**,**Spring Boot / Microservices**,**React.JS**
+- 🌱 I’m currently learning  **Java Full Stack Development**, **Spring Boot / Microservices**, **React.JS**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
